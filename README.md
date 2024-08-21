@@ -43,7 +43,7 @@ Strategies:
 Modular Design: Use modular design principles to break down large systems into smaller, manageable components.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing:individuals testing of modules of software.
+Unit Testing: individuals testing of modules of software.
 Integration Testing: Testing interactions between different components.
 System Testing: Testing the software system as a whole.
 Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
